@@ -4,14 +4,14 @@
  * @Github: https://github.com/wukaiismy
  * @since: 2019-05-17 14:10:13
  * @LastAuthor: wukai
- * @lastTime: 2019-05-17 14:12:11
+ * @lastTime: 2019-07-26 16:56:31
  -->
 
-# vue-housekeeping-workers
+# vue-fammer-app
 
 ### 三农产品 APP
 
-#### 项目地址：https://github.com/wukaiismy/vue-houseing-workers
+#### 项目地址：https://github.com/wukaiismy/fammer
 
 ---
 
