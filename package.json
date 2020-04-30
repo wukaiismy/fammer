@@ -15,7 +15,7 @@
     "font-awesome": "^4.7.0",
     "font-awesome.css": "^4.7.2",
     "html2canvas": "^1.0.0-alpha.12",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.5.1",
     "js-cookie": "^2.2.0",
     "kim-vue-touch": "^1.1.1",
